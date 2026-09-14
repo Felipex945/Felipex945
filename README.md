@@ -95,8 +95,8 @@ Tenho interesse em **Cybersecurity** e estou construindo meus conhecimentos por 
 
 Concluí o **Pre Security Learning Path** da TryHackMe.
 
-📅 **Conclusão:** 26 de maio de 2026
-⏱️ **Duração:** 19 horas e 10 minutos
+**Conclusão:** 26 de maio de 2026
+**Duração:** 19 horas e 10 minutos
 
 O certificado representa uma etapa dos meus estudos e faz parte da minha busca por uma base melhor em segurança da informação.
 
@@ -136,7 +136,7 @@ Laboratórios e projetos relacionados aos meus estudos de segurança da informa�
 
 ---
 
-## 🎯 Meus objetivos
+## Meus objetivos
 
 ### Curto prazo
 
@@ -157,18 +157,7 @@ Laboratórios e projetos relacionados aos meus estudos de segurança da informa�
 
 Quero transformar meus conhecimentos e projetos em uma **carreira na área de tecnologia**, continuando a aprender e descobrindo qual área combina mais comigo.
 
----
-
-## 📊 GitHub
-
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipex945\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipex945\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-
-### ⭐ Obrigado por visitar meu perfil!
+### Obrigado por visitar meu perfil!
 
 Se algum projeto meu for interessante ou útil para você, fique à vontade para deixar uma ⭐ no repositório.
 
