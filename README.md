@@ -67,11 +67,6 @@ Meu conhecimento nessa área ainda está em desenvolvimento e estou utilizando p
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Game Development
-
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&logo=roblox\&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
-
 ### Sistemas e ferramentas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
