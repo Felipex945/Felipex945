@@ -1,8 +1,8 @@
 # Olá! Eu sou Felipe
 
-**Estudante de Programação** | **Estudante de Cybersecurity** |  **Roblox Developer em aprendizado**
+**Estudante de Programação** | **Estudante de Cybersecurity**
 
-Sou estudante e atualmente estou construindo minha base em **programação, desenvolvimento web, Linux, cybersecurity e desenvolvimento de jogos**.
+Sou estudante e atualmente estou construindo minha base em **programação, desenvolvimento web, Linux e cybersecurity.**.
 
 Gosto de aprender colocando o conhecimento em prática, criando pequenos projetos, experimentando tecnologias diferentes e entendendo como as coisas funcionam por trás delas.
 
@@ -20,7 +20,6 @@ Tenho interesse principalmente em:
 *  **Desenvolvimento Web**
 *  **Cybersecurity**
 *  **Linux**
-*  **Desenvolvimento de jogos**
 *  **Tecnologia e computação**
 
 Ainda não me considero especialista em nenhuma dessas áreas. Meu objetivo neste momento é **construir uma base sólida**, desenvolver projetos e aprender com cada experiência.
@@ -40,13 +39,6 @@ Ainda não me considero especialista em nenhuma dessas áreas. Meu objetivo nest
 * **HTML**
 * **CSS**
 * **JavaScript**
-
-### Desenvolvimento de Jogos
-
-* **Roblox Studio**
-* **Luau**
-
-Atualmente estou aprendendo a criar sistemas e mecânicas para jogos utilizando Roblox Studio.
 
 ### Cybersecurity
 
@@ -129,7 +121,6 @@ Laboratórios e projetos relacionados aos meus estudos de segurança da informa�
 * Melhorar minha **Lógica de Programação**
 * Evoluir em **C e Python**
 * Aprender mais sobre **desenvolvimento web**
-* Continuar aprendendo **Roblox Studio e Luau**
 * Aprofundar meus conhecimentos em **Cybersecurity**
 * Aprender mais sobre **Linux**
 * Criar projetos maiores e mais completos
