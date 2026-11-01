@@ -101,10 +101,6 @@ Projetos e exercícios desenvolvidos enquanto estudo fundamentos de programaçã
 
 Projetos utilizando HTML, CSS e JavaScript para praticar desenvolvimento de páginas e aplicações web.
 
-### Roblox
-
-Projetos desenvolvidos durante meu aprendizado de Roblox Studio e Luau, incluindo sistemas e mecânicas para jogos.
-
 ### Cybersecurity
 
 Laboratórios e projetos relacionados aos meus estudos de segurança da informação.
